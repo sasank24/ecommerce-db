@@ -114,22 +114,4 @@ Perfect for practicing SQL analytics queries!
 - ✅ CASE WHEN logic
 - ✅ STRING functions
 
-## Interview Preparation
-
-This project is ideal for preparing for **Data Analyst** interviews:
-- Practice writing complex analytical queries
-- Understand real-world data modeling
-- Learn business metric calculations
-- Demonstrate SQL proficiency with hands-on examples
-
-## Next Steps
-
-1. Clone/download this repository
-2. Choose your SQL database (MySQL/PostgreSQL/SQL Server)
-3. Run `schema.sql` to create the database
-4. Run `sample_data.sql` to populate sample data
-5. Start exploring with `analytical_queries.sql`
-
----
-
 **Happy analyzing!** 📊
