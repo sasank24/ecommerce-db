@@ -85,13 +85,13 @@ Open `analytical_queries.sql` to see pre-built queries for:
 ## Data Analytics Focus
 
 This database is optimized for:
-- ✅ Customer segmentation & RFM analysis
-- ✅ Revenue & sales metrics
-- ✅ Product performance tracking
-- ✅ Customer lifetime value (CLV)
-- ✅ Churn analysis
-- ✅ Cohort analysis
-- ✅ Conversion funnel analysis
+-  Customer segmentation & RFM analysis
+-  Revenue & sales metrics
+-  Product performance tracking
+-  Customer lifetime value (CLV)
+-  Churn analysis
+-  Cohort analysis
+-  Conversion funnel analysis
 
 ## Sample Data
 
@@ -105,13 +105,13 @@ Perfect for practicing SQL analytics queries!
 
 ## SQL Skills Covered
 
-- ✅ JOINs (INNER, LEFT, RIGHT, FULL)
-- ✅ Aggregation functions (SUM, COUNT, AVG, MAX, MIN)
-- ✅ GROUP BY & HAVING
-- ✅ Subqueries & CTEs
-- ✅ Window functions (ROW_NUMBER, RANK, DENSE_RANK)
-- ✅ Date functions & filtering
-- ✅ CASE WHEN logic
-- ✅ STRING functions
+-  JOINs (INNER, LEFT, RIGHT, FULL)
+-  Aggregation functions (SUM, COUNT, AVG, MAX, MIN)
+-  GROUP BY & HAVING
+-  Subqueries & CTEs
+-  Window functions (ROW_NUMBER, RANK, DENSE_RANK)
+-  Date functions & filtering
+-  CASE WHEN logic
+-  STRING functions
 
 **Happy analyzing!** 📊
