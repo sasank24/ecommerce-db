@@ -31,27 +31,9 @@ ecommerce-db/
 
 ## Quick Start
 
-### 1. Create Database
 
-**For MySQL:**
-```bash
-mysql -u root -p < schema.sql
-mysql -u root -p < sample_data.sql
-```
 
-**For PostgreSQL:**
-```bash
-psql -U postgres -f schema.sql
-psql -U postgres -f sample_data.sql
-```
-
-**For SQL Server:**
-```bash
-sqlcmd -S server_name -U user -P password -i schema.sql
-sqlcmd -S server_name -U user -P password -i sample_data.sql
-```
-
-### 2. Run Analytics Queries
+### 1. Run Analytics Queries
 
 Open `analytical_queries.sql` to see pre-built queries for:
 - Customer behavior analysis
@@ -114,4 +96,4 @@ Perfect for practicing SQL analytics queries!
 -  CASE WHEN logic
 -  STRING functions
 
-**Happy analyzing!** 📊
+
