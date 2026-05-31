@@ -421,18 +421,4 @@ FROM customers
 GROUP BY DATE_TRUNC(customer_since, MONTH)
 ORDER BY acquisition_month DESC;
 
--- ============================================================================
--- SQL SKILLS SHOWCASED IN THESE QUERIES:
--- ============================================================================
--- ✓ Aggregate Functions: COUNT, SUM, AVG, MAX, MIN
--- ✓ JOINs: INNER JOIN, LEFT JOIN, multiple joins
--- ✓ GROUP BY & HAVING clauses
--- ✓ CASE WHEN for conditional logic
--- ✓ Window Functions: ROW_NUMBER, RANK, DENSE_RANK, SUM OVER
--- ✓ CTEs (WITH clause) for complex queries
--- ✓ Subqueries & nested queries
--- ✓ Date functions: DATE_TRUNC, MONTH, YEAR, DATEDIFF
--- ✓ String aggregation: STRING_AGG, CONCAT
--- ✓ COALESCE for NULL handling
--- ✓ ORDER BY & LIMIT
--- ============================================================================
+
